@@ -1,0 +1,27 @@
+.cards{
+    background: #6a1368;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    /* top:12%; */
+    /* left:30%; */
+}
+
+p,a{
+    background: linear-gradient(#a94ea4 50%, #f7bed9 0);
+    position:fixed;
+}
+p{
+    border-radius: 22q;
+    width: 280px;
+    height: 180px;
+    margin: 60px;
+}
+a{
+    width: 200px;
+    height: 120px;
+    scale: -1;
+    margin: 30px 40px;
+    clip-path: polygon( 0%50%,25%100%,75%0%,100%50%);
+}
+
