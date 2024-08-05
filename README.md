@@ -1,6 +1,8 @@
 # Cards
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+![image](https://github.com/user-attachments/assets/70fa21db-1a4d-4e0a-bb6e-6e007cd66044)
+
 
 ## Development server
 
